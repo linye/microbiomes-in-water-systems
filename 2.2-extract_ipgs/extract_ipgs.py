@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-This script extracts nucleotide sequences corresponding to IPG clusters for different thresholds (10%-60%).
+Extract nucleotide sequences corresponding to IPG clusters for 4-group thresholds (10%-60%).
+Generates six FASTA files: IPG_4group_10%.fa ... IPG_4group_60%.fa
 """
 
 from Bio import SeqIO

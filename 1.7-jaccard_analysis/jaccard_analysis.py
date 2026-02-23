@@ -42,7 +42,7 @@ def calc_env_total(df, envs):
     total = {e: 0 for e in envs}
     for _, r in df.iterrows():
         for e in r['group_set']:
-            total[e] += r['strict']
+            total[e] += r['exclusive']
     return total
 
 
@@ -55,7 +55,7 @@ def calc_jaccard(df, envs, env_total):
     for e1, e2 in itertools.combinations(envs, 2):
         shared = df.loc[
             df['group_set'].apply(lambda x: {e1, e2}.issubset(x)),
-            'strict'
+            'exclusive'
         ].sum()
         union = env_total[e1] + env_total[e2] - shared
         val = shared / union if union > 0 else 0
@@ -71,7 +71,7 @@ def calc_direction_gene_flow(df, envs, env_total):
             continue
         shared = df.loc[
             df['group_set'].apply(lambda x: {src, tgt}.issubset(x)),
-            'strict'
+            'exclusive'
         ].sum()
         mat.loc[src, tgt] = shared / env_total[tgt] if env_total[tgt] > 0 else 0
     return mat
@@ -130,7 +130,7 @@ def draw_upset(df, outfile):
 
     for _, row in df.iterrows():
         memberships.append(list(row['group_set']))
-        counts.append(row['strict'])
+        counts.append(row['exclusive'])
 
     data = from_memberships(memberships, data=counts)
     upset = UpSet(data, subset_size='sum',
@@ -258,17 +258,17 @@ def main():
 
     # Directional gene flow
     direction_mat = calc_direction_gene_flow(df, envs, env_total)
-    direction_mat.to_csv('direction_gene_flow_matrix.tsv', sep='\t', float_format='%.4f')
-    draw_heatmap(direction_mat, 'Directional gene flow (source → target)', 'direction_gene_flow_heatmap')
+    direction_mat.to_csv('directional_gene_flow_matrix.tsv', sep='\t', float_format='%.4f')
+    draw_heatmap(direction_mat, 'Directional gene flow (source → target)', 'directional_gene_flow_heatmap')
 
-    draw_direction_gene_flow_network(direction_mat, threshold=0.01, outfile='direction_gene_flow_network')
+    draw_direction_gene_flow_network(direction_mat, threshold=0.01, outfile='directional_gene_flow_network')
 
     # UpSet plots
     draw_upset(df, 'upset_all_clusters')
-    df[['group', 'strict']].to_csv('upset_all_clusters.tsv', sep='\t', index=False)
+    df[['group', 'exclusive']].to_csv('upset_all_clusters.tsv', sep='\t', index=False)
 
     draw_upset(df_shared, 'upset_shared_clusters')
-    df_shared[['group', 'strict']].to_csv('upset_shared_clusters.tsv', sep='\t', index=False)
+    df_shared[['group', 'exclusive']].to_csv('upset_shared_clusters.tsv', sep='\t', index=False)
 
     # Net directional flow
     net_flow = calc_net_flow(direction_mat)
@@ -293,7 +293,7 @@ def main():
     # Global directional gene flow network
     draw_global_direction_network(direction_mat, env_total, net_flow,
                                   threshold=0.02,
-                                  outfile='global_direction_gene_flow_network')
+                                  outfile='global_directional_gene_flow_network')
 
     print('Analysis finished. Figures and data saved.')
 

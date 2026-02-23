@@ -1,6 +1,6 @@
 # Analysis of Microbiomes in Water Systems
 
-This repository contains code and data for analyzing microbiomes in water systems.
+This repository contains code and data for analyzing microbiomes in water systems. Due to file size constraints, only example input files are provided.
 
 ## 1. Gene Catalogue Construction
 
@@ -32,16 +32,14 @@ This script extracts representative sequence IDs from an MMseqs-generated repres
 
 ### 1.3 `process_cluster_info.py`
 
-This script parses cluster memberships and metadata to generate environmental-level sample counts and study counts for each cluster.
+This script parses cluster memberships and metadata to generate environmental-level sample counts for each cluster.
 
 **Input**
 - `protein_clusters.txt`
 - `env.txt`
-- `study.txt`
 
 **Output**
 - `cluster_env_sample_number_matrix.txt`
-- `cluster_env_study_number_matrix.txt`
 
 ---
 
@@ -79,10 +77,10 @@ It generates a global curve and environment-specific curves.
 
 ### 1.6 `summarize_env_combination.py`
 
-This script summarizes environment co-occurrence patterns of clusters based on study-level presence and reports both strict and inclusive combination counts.
+This script summarizes environment co-occurrence patterns of clusters based on presence both exclusive and non-exclusive combination counts.
 
 **Input**
-- `cluster_env_study_number_matrix.txt`
+- `cluster_env_sample_number_matrix.txt`
 
 **Output**
 - `env_combination_results.txt`

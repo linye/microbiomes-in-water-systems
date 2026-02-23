@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 
 """
-This script filters protein clusters that meet threshold criteria for each environment and, generates six output files corresponding to 10%-60% thresholds.
+Filter protein clusters that meet threshold criteria for each environment
+and generate multiple output files. 
+This script generates six files corresponding to 10%-60% thresholds in a single run.
 """
 
 import os

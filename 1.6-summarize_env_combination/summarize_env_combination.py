@@ -1,12 +1,12 @@
 """
 This script summarizes environment co-occurrence patterns of clusters based on
-study-level presence and reports both strict and inclusive combination counts.
+presence and reports both exclusive and non-exclusive combination counts.
 """
 
 import itertools
 
 # Input / output
-INPUT_FILE = "cluster_env_study_number_matrix.txt"
+INPUT_FILE = "cluster_env_sample_number_matrix.txt"
 OUTPUT_FILE = "env_combination_results.txt"
 
 # Environment order must match the column order in the matrix
@@ -57,15 +57,15 @@ def main():
     # Prepare output
     results = []
     for combo in all_combinations:
-        strict_val = strict_dict.get(combo, 0)
-        normal_val = normal_count.get(combo, 0)
+        exclusive_val = strict_dict.get(combo, 0)
+        non-exclusive_val = normal_count.get(combo, 0)
         group_str = ','.join(sorted(combo))
-        results.append((group_str, strict_val, normal_val))
+        results.append((group_str, exclusive_val, non-exclusive_val))
 
     results.sort(key=lambda x: x[1], reverse=True)
 
     with open(OUTPUT_FILE, 'w') as out_file:
-        out_file.write("group\tstrict\tnormal\n")
+        out_file.write("group\texclusive\tnon-exclusive\n")
         for res in results:
             out_file.write(f"{res[0]}\t{res[1]}\t{res[2]}\n")
 

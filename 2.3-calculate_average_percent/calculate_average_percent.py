@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 """
-This script calculates the average proportion of sequences in each group above varying thresholds and 
-generates a TSV file with average proportions and a line plot for visualization.
+Calculate the average proportion of sequences in each group above varying thresholds.
+Generates a TSV file with average proportions and a line plot for visualization.
 """
 
 import pandas as pd
