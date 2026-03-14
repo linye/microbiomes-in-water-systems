@@ -2,6 +2,17 @@
 
 This repository contains code and data for analyzing microbiomes in water systems. Due to file size constraints, only example input files are provided.
 
+## 0. Software Requirements
+
+- MMseqs2 (version 13.45111)
+- Python 3.8
+    - pandas == 2.0.3
+    - numpy == 1.23.5
+    - matplotlib == 3.7.5
+    - seaborn == 0.13.2
+    - networkx == 3.1
+    - upsetplot == 0.9.0
+
 ## 1. Gene Catalogue Construction
 
 ### 1.1 `make_protein_clusters.py`
