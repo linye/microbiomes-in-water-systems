@@ -1,0 +1,447 @@
+Bin	Group	iRep	Coverage	Domin	Phylun	Class	Order	Family	Genus	Specie
+AS-SRR13994250_bin.207	AS	1.505346837	27.59948681	d__Bacteria	p__Bdellovibrionota	c__FAC87	o__	f__	g__	s__
+DW-ERR2105748_bin.91	DW	1.501308988	14.45390046	d__Bacteria	p__Acidobacteriota	c__Acidobacteriae	o__20CM-2-55-15	f__20CM-2-55-15	g__DSPE01	s__
+AS-SRR3501861_bin.29	AS	1.759993519	8.753864749	d__Bacteria	p__Actinobacteriota	c__Thermoleophilia	o__Solirubrobacterales	f__70-9	g__67-14	s__
+GW-SRR12113409_bin.92	GW	1.520215866	15.61675074	d__Bacteria	p__Nitrospirota	c__9FT-COMBO-42-15	o__9FT-COMBO-42-15	f__9FT-COMBO-42-15	g__JACPZJ01	s__JACPZJ01 sp016195585
+DW-ERR2105748_bin.6	DW	1.358953314	53.10680817	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Acetobacterales	f__Acetobacteraceae	g__BOG-934	s__
+DW-ERR2105750_bin.79	DW	1.601986532	32.36231918	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Acetobacterales	f__Acetobacteraceae	g__BOG-934	s__
+DW-ERR2163668_bin.57	DW	1.320207774	85.8775054	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Acetobacterales	f__Acetobacteraceae	g__BOG-934	s__
+DW-ERR2163668_bin.60	DW	1.234961641	65.43856991	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Acetobacterales	f__Acetobacteraceae	g__Crenalkalicoccus	s__
+GW-SRR12113392_bin.47	GW	1.305253765	15.25961982	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Aestuariivirgaceae	g__Aestuariivirga	s__Aestuariivirga sp016185245
+GW-SRR15669520_bin.27	GW	1.535168604	10.48236233	d__Bacteria	p__Campylobacterota	c__Campylobacteria	o__Campylobacterales	f__Arcobacteraceae	g__Aliarcobacter	s__
+GW-ERR3858119_bin.117	GW	1.288679832	12.39080057	d__Bacteria	p__Bdellovibrionota	c__Bdellovibrionia	o__Bdellovibrionales	f__Bdellovibrionaceae	g__UBA5009	s__
+DW-SRR19238497_bin.50	DW	1.322981305	34.09047426	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Beijerinckiaceae	g__Bosea	s__
+DW-SRR15085115_bin.63	DW	1.601303929	18.19057472	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Beijerinckiaceae	g__Methylobacterium	s__
+GW-SRR12113391_bin.15	GW	1.221249535	31.29452244	d__Bacteria	p__Desulfobacterota_B	c__Binatia	o__Bin18	f__Bin18	g__SYOC01	s__SYOC01 sp016197285
+GW-SRR13727527_bin.196	GW	1.306352164	16.20250955	d__Bacteria	p__Desulfobacterota_B	c__Binatia	o__Binatales	f__Binataceae	g__Binatus	s__
+DW-ERR2105750_bin.91	DW	1.172022984	113.9516661	d__Bacteria	p__Acidobacteriota	c__Acidobacteriae	o__Bryobacterales	f__Bryobacteraceae	g__	s__
+DW-ERR2163668_bin.37	DW	1.166318178	37.22414871	d__Bacteria	p__Acidobacteriota	c__Acidobacteriae	o__Bryobacterales	f__Bryobacteraceae	g__	s__
+DW-SRR24226005_bin.50	DW	1.331801182	17.41837228	d__Bacteria	p__Acidobacteriota	c__Acidobacteriae	o__Bryobacterales	f__Bryobacteraceae	g__	s__
+GW-SRR7912025_bin.18	GW	1.40242132	149.6889522	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Acidovorax	s__Acidovorax sp001411535
+AS-SRR14932479_bin.9	AS	1.578738023	7.093276774	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Aquabacterium	s__
+DW-SRR18749950_bin.53	DW	1.409589076	23.78871098	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Aquabacterium	s__Aquabacterium parvum
+DW-SRR18749951_bin.4	DW	1.309917064	32.31956471	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Aquabacterium	s__Aquabacterium parvum
+DW-SRR19238497_bin.64	DW	1.334552705	21.12510346	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Aquabacterium	s__Aquabacterium sp004322345
+GW-SRR12113392_bin.85	GW	1.549322006	7.095536191	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Aquabacterium	s__Aquabacterium sp016185075
+GW-SRR21427516_bin.66	GW	1.365645318	17.12432271	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Aquabacterium	s__
+WW-ERR1713341_bin.19	WW	1.619812971	8.382984393	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Brachymonas	s__Brachymonas sp017993135
+WW-ERR4678577_bin.39	WW	1.775682892	18.89359254	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Brachymonas	s__Brachymonas sp017993135
+WW-ERR4678578_bin.44	WW	1.615464888	27.02582368	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Brachymonas	s__Brachymonas sp017993135
+WW-ERR9855085_bin.11	WW	1.98264216	37.87306073	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Brachymonas	s__Brachymonas sp018054915
+WW-ERR9855085_bin.40	WW	1.766824721	6.738036085	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Brachymonas	s__
+WW-SRR11088379_bin.23	WW	1.84063714	12.36024829	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Brachymonas	s__Brachymonas sp017993135
+DW-ERR2105748_bin.98	DW	1.712679101	9.564557694	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__CAISIP01	s__CAISIP01 sp903885415
+DW-ERR2105750_bin.47	DW	1.687308213	10.11985103	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__CAISIP01	s__CAISIP01 sp903885415
+DW-ERR2163668_bin.1	DW	1.775456956	10.83656891	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__CAISIP01	s__CAISIP01 sp903885415
+GW-ERR3281022_bin.29	GW	1.777765358	15.76790187	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Caldimonas	s__
+AS-SRR11088370_bin.12	AS	2.451005323	11.70537895	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Comamonas	s__Comamonas denitrificans_A
+WW-ERR4678578_bin.66	WW	1.976071098	114.8196404	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Comamonas	s__Comamonas denitrificans_A
+DW-SRR6986809_bin.10	DW	1.511107115	18.11730605	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Duganella	s__Duganella sp000335815
+WW-ERR1713342_bin.38	WW	1.766110548	18.07351198	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Extensimonas	s__Extensimonas vulgaris
+AS-SRR3501884_bin.57	AS		6.104412341	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Giesbergeria	s__Giesbergeria sp010020825
+NW-SRR10132616_bin.9	NW	1.361360082	12.98303412	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Herminiimonas	s__
+GW-ERR3281023_bin.11	GW	1.763705519	26.51454558	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Hydrogenophaga	s__
+GW-SRR12964611_bin.64	GW		23.99625178	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Hydrogenophaga	s__Hydrogenophaga sp018780385
+GW-SRR18331975_bin.21	GW	1.48064734	8.44213213	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Hydrogenophaga	s__Hydrogenophaga aromaticivorans
+GW-SRR21427516_bin.46	GW	1.415252586	26.12071258	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Hydrogenophaga	s__
+GW-SRR7912025_bin.12	GW	1.689911036	8.213537186	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Hydrogenophaga	s__Hydrogenophaga intermedia
+GW-SRR7912025_bin.5	GW	1.634498183	30.55030912	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Hydrogenophaga	s__Hydrogenophaga sp003599455
+DW-SRR15085115_bin.44	DW	1.443482276	31.35432047	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Hylemonella	s__
+DW-SRR15085116_bin.46	DW	1.46267397	41.62728496	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Hylemonella	s__
+GW-SRR12113392_bin.2	GW	1.35607691	15.11528307	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Hylemonella	s__Hylemonella sp016185015
+GW-SRR12964611_bin.57	GW	1.308918815	13.64727593	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Ideonella	s__Ideonella sp018780145
+WW-ERR9855084_bin.25	WW	1.862000476	12.91845554	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__JAABQG01	s__
+AS-SRR11673976_bin.8	AS	1.692944196	28.67332069	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__JADJCH01	s__JADJCH01 sp016703325
+WW-ERR1713342_bin.40	WW	1.868489953	13.78859285	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__JAGOEY01	s__
+DW-SRR19238497_bin.32	DW	1.201225929	287.3690322	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnobacter	s__Limnobacter sp002954425
+GW-SRR10598223_bin.1	GW	1.100722305	407.2451284	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnobacter	s__Limnobacter sp018815245
+GW-SRR10598224_bin.2	GW	1.086397926	599.3371623	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnobacter	s__Limnobacter sp018815245
+DW-ERR2105748_bin.89	DW	1.629730455	7.905047534	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans	s__Limnohabitans sp009921265
+DW-ERR2163668_bin.51	DW	1.495865584	9.54897168	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans	s__Limnohabitans sp009921265
+DW-SRR17063163_bin.102	DW	1.92815773	13.4464082	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans	s__Limnohabitans sp018882835
+DW-SRR17063164_bin.19	DW	1.911234667	11.99539781	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans	s__Limnohabitans sp018882835
+DW-SRR21694248_bin.145	DW		4.812540941	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans	s__Limnohabitans sp009923345
+DW-SRR21694248_bin.77	DW		4.293939619	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans	s__Limnohabitans sp005789825
+NW-ERR2338392_bin.33	NW	1.630576355	9.506659499	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans	s__
+NW-ERR4869717_bin.125	NW	1.733345566	11.25412427	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans	s__
+DW-ERR2105748_bin.35	DW	1.664580171	17.05863494	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans_A	s__Limnohabitans_A sp903856875
+DW-ERR2105750_bin.70	DW	1.574383163	13.94420229	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans_A	s__Limnohabitans_A sp903856875
+DW-SRR19238497_bin.2	DW	1.690677886	46.7226594	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans_A	s__
+GW-ERR3281022_bin.9	GW		521.6157386	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans_A	s__
+GW-SRR15669520_bin.34	GW	1.44449408	28.71680279	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans_A	s__
+GW-SRR15669520_bin.39	GW	1.249398455	55.4323705	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans_A	s__
+GW-SRR15669520_bin.60	GW		134.1912344	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Limnohabitans_A	s__
+GW-SRR12113392_bin.25	GW	1.422794036	10.01828864	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__LMDS01	s__
+GW-SRR18331974_bin.13	GW	1.6221102	8.469912138	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Malikia	s__Malikia spinosa
+DW-SRR21802942_bin.33	DW	2.10820497	22.54176087	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Massilia	s__
+DW-ERR2163668_bin.31	DW	2.141116001	16.73377757	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__NBD-18	s__
+DW-SRR21694248_bin.74	DW	1.754581596	5.461723097	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__NBD-18	s__
+GW-SRR13727527_bin.231	GW	1.653988968	10.52908348	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__NBD-18	s__
+WW-ERR1713342_bin.63	WW	1.49297642	197.3402287	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__NBD-18	s__
+WW-SRR12450810_bin.30	WW	1.491584212	9.459393437	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__NBD-18	s__
+WW-DRR198516_bin.4	WW	1.748759575	9.385831095	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Ottowia	s__Ottowia sp001897615
+WW-SRR12450810_bin.6	WW	1.719524264	7.928212054	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Ottowia	s__Ottowia sp018060485
+GW-SRR12964612_bin.58	GW	1.381161186	6.866293636	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Paucibacter_A	s__Paucibacter_A sp018780415
+AS-SRR11235435_bin.6	AS	2.128723106	32.83282492	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__PBB1	s__PBB1 sp017986065
+DW-SRR15085115_bin.8	DW	1.372956079	15.74708593	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__PHCI01	s__PHCI01 sp002842205
+GW-ERR3281022_bin.20	GW	1.693140324	20.81275108	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Pigmentiphaga	s__
+AS-SRR11235435_bin.63	AS	1.495180132	32.10715049	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Piscinibacter	s__Piscinibacter sp017983795
+DW-SRR21802942_bin.54	DW	2.301561205	28.24791332	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Polaromonas	s__
+GW-ERR3281023_bin.36	GW	1.658975602	10.93100809	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Polaromonas	s__
+GW-SRR12113392_bin.61	GW	1.271190296	19.48095633	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Polaromonas	s__Polaromonas sp016185115
+GW-SRR8797411_bin.4	GW	1.503969231	6.29611907	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Polaromonas	s__
+DW-SRR17063163_bin.84	DW	2.101742446	5.16564538	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Polynucleobacter	s__Polynucleobacter sp002359975
+DW-SRR22105534_bin.40	DW	2.572635051	7.974611832	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Polynucleobacter	s__Polynucleobacter sp002359975
+NW-ERR4222569_bin.66	NW		96.69079475	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Polynucleobacter	s__Polynucleobacter sp903935355
+NW-ERR4222569_bin.67	NW	1.476721783	32.83815747	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Polynucleobacter	s__Polynucleobacter sp903944725
+NW-ERR4222569_bin.89	NW	1.670277431	10.46451687	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Polynucleobacter	s__Polynucleobacter sp903944255
+NW-ERR4222570_bin.91	NW		88.32066695	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Polynucleobacter	s__Polynucleobacter sp903935355
+AS-SRR8223441_bin.100	AS	1.594968542	11.09038225	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Ramlibacter	s__
+GW-SRR12113392_bin.10	GW	1.315284097	25.28507453	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Ramlibacter	s__Ramlibacter sp016191525
+DW-SRR17063163_bin.54	DW	2.503325452	17.71247926	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__RFTU01	s__RFTU01 sp009918225
+DW-SRR17063164_bin.50	DW	2.293646503	16.68821499	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__RFTU01	s__RFTU01 sp009918225
+GW-SRR12964611_bin.7	GW	1.592880038	7.27317242	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhizobacter	s__Rhizobacter sp018780185
+GW-SRR12964612_bin.20	GW	1.720827389	10.91537127	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhizobacter	s__Rhizobacter sp018780185
+AS-SRR14932485_bin.37	AS	1.513128559	11.38207809	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhodoferax	s__
+DW-SRR19238493_bin.15	DW	1.673097715	6.369081376	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhodoferax	s__
+GW-SRR12964611_bin.50	GW	1.348953477	57.43755576	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhodoferax	s__Rhodoferax sp018780565
+GW-SRR12964612_bin.15	GW	1.368544508	54.37389522	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhodoferax	s__Rhodoferax sp018780565
+GW-SRR13727526_bin.27	GW	1.332498369	14.64186646	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhodoferax	s__
+GW-SRR13727526_bin.70	GW	1.47372141	14.85903341	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhodoferax	s__Rhodoferax sp001771065
+GW-SRR18331974_bin.14	GW	1.80470966	19.36131479	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhodoferax	s__
+GW-SRR18331975_bin.23	GW	1.655731183	17.75536354	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhodoferax	s__
+GW-SRR8797411_bin.21	GW	1.218797697	20.65659843	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhodoferax	s__
+GW-SRR8797411_bin.25	GW	1.273192296	18.46008395	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rhodoferax	s__
+AS-ERR1076082_bin.8	AS	1.756453184	11.38871825	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rubrivivax	s__
+AS-SRR11673976_bin.73	AS	2.016741475	57.31138707	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rubrivivax	s__Rubrivivax sp016709385
+AS-SRR14932485_bin.140	AS	1.278826351	19.2109756	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rubrivivax	s__
+DW-SRR19238497_bin.33	DW	1.410616107	16.16529894	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rubrivivax	s__
+GW-SRR12113391_bin.25	GW	1.404388203	11.01275145	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rubrivivax	s__
+GW-SRR12964612_bin.49	GW	1.344367988	11.87420837	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Rubrivivax	s__Rubrivivax sp018780805
+GW-ERR3281022_bin.2	GW	1.731133789	26.94558161	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Schlegelella	s__
+WW-SRR11088379_bin.3	WW	1.690470281	17.45979282	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__SCN-69-89	s__
+GW-SRR21427515_bin.60	GW	1.516009242	35.23368301	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Serpentinomonas	s__Serpentinomonas mccroryi
+WW-ERR2592245_bin.10	WW	1.953625764	8.885837887	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Sphaerotilus	s__Sphaerotilus sulfidivorans
+WW-ERR9855085_bin.30	WW	1.854509732	20.76756639	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Sphaerotilus	s__Sphaerotilus sulfidivorans
+WW-SRR12450756_bin.19	WW	1.679248907	15.09308422	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Sphaerotilus	s__
+DW-SRR21694248_bin.54	DW	1.754530729	5.199468872	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__SYFN01	s__
+GW-SRR12964612_bin.38	GW	1.380945632	5.504452148	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__SYFN01	s__
+GW-SRR15669520_bin.77	GW	1.358886272	16.40736569	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__SYFN01	s__
+DW-SRR17063164_bin.41	DW	1.958512484	9.01144821	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__SYIM01	s__
+GW-ERR3281022_bin.12	GW	1.893477891	137.6618929	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Tepidimonas	s__Tepidimonas fonticaldi
+GW-ERR3281022_bin.32	GW	1.410439226	59.61906827	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__Tepidimonas	s__Tepidimonas ignava
+GW-SRR21427515_bin.35	GW	1.482550331	7.842690814	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__UBA2334	s__UBA2334 sp013823635
+GW-SRR21427516_bin.11	GW	1.254555271	63.33729643	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__UBA2334	s__
+WW-SRR12450756_bin.15	WW	1.749506078	20.01297091	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__UBA2334	s__
+DW-SRR17063163_bin.86	DW	1.683170205	16.45764891	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__UBA3064	s__UBA3064 sp005787245
+DW-SRR17063164_bin.37	DW	1.635356534	13.37229803	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Burkholderiaceae	g__UBA3064	s__UBA3064 sp005787245
+GW-SRR12113409_bin.98	GW	1.401969021	16.83390183	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__CACIAM-22H2	f__CACIAM-22H2	g__Tagaea	s__
+DW-ERR2105748_bin.95	DW	1.407404063	18.97963916	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__CACIAM-22H2	f__CACIAM-22H2	g__VGEI01	s__
+DW-SRR21802942_bin.57	DW	1.424308552	14.37430944	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__CACIAM-22H2	f__CACIAM-22H2	g__VGEI01	s__
+DW-SRR19238497_bin.89	DW	1.251930196	21.28005577	d__Bacteria	p__Bdellovibrionota	c__Bdellovibrionia_A	o__CAIPTA01	f__CAIPTA01	g__	s__
+AS-SRR14932485_bin.86	AS	1.393212315	12.26457294	d__Bacteria	p__Verrucomicrobiota	c__Kiritimatiellae	o__LD1-PB3	f__CAIVKH01	g__	s__
+AS-SRR11673976_bin.119	AS	1.498033126	18.27276225	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Casimicrobiaceae	g__CAIWHR01	s__CAIWHR01 sp016720425
+NW-ERR2338392_bin.76	NW	1.566765179	9.708133188	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Casimicrobiaceae	g__CAIWHR01	s__
+DW-SRR15085115_bin.34	DW	1.373670555	14.626427	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Brevundimonas	s__
+DW-SRR18749950_bin.26	DW	1.446724763	13.30936207	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Brevundimonas	s__Brevundimonas aurantiaca
+GW-ERR3281023_bin.44	GW	1.396384973	22.18319149	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Brevundimonas	s__Brevundimonas sp016656965
+GW-SRR12964611_bin.59	GW	1.342772831	9.269698461	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Brevundimonas	s__
+GW-SRR12964612_bin.1	GW	1.298114749	20.16899791	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Brevundimonas	s__
+GW-SRR21427515_bin.22	GW		6.909017949	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Brevundimonas	s__
+GW-SRR8797411_bin.29	GW	1.410122809	6.54845666	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Brevundimonas	s__
+DW-ERR2105748_bin.75	DW	1.773773028	14.34006489	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Caulobacter	s__Caulobacter sp903889785
+DW-SRR19238497_bin.36	DW	1.334901369	13.03853758	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Caulobacter	s__
+DW-SRR19238497_bin.87	DW	1.413235151	18.40035286	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Caulobacter	s__
+GW-ERR3281023_bin.56	GW	1.621545212	16.83605738	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Caulobacter	s__Caulobacter vibrioides_A
+GW-SRR13727526_bin.12	GW	1.391778622	81.3257182	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Caulobacter	s__
+DW-SRR18749950_bin.45	DW	1.563925492	10.69942056	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Phenylobacterium	s__Phenylobacterium sp004299445
+DW-SRR18749951_bin.13	DW	1.575173222	30.16066939	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Phenylobacterium	s__Phenylobacterium sp004299445
+GW-ERR3281022_bin.40	GW	1.474819886	13.8683471	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Phenylobacterium	s__
+GW-SRR13727526_bin.21	GW	1.317503387	16.89303958	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Phenylobacterium	s__
+WW-SRR12450756_bin.29	WW	1.906518377	6.766229206	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Caulobacteraceae	g__Phenylobacterium	s__
+GW-SRR8797411_bin.22	GW	1.390635049	9.321462747	d__Bacteria	p__CG2-30-53-67	c__CG2-30-53-67	o__CG2-30-53-67	f__CG2-30-53-67	g__CG2-30-53-67	s__
+AS-ERR1076082_bin.29	AS	1.697054486	6.376274469	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Competibacterales	f__Competibacteraceae	g__Competibacter_A	s__Competibacter_A sp016713505
+AS-ERR1076082_bin.45	AS		4.313802215	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Competibacterales	f__Competibacteraceae	g__Competibacter_A	s__
+AS-SRR3501884_bin.41	AS	1.723818858	8.271243601	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Competibacterales	f__Competibacteraceae	g__Plasticicumulans	s__Plasticicumulans sp003962905
+WW-SRR12450756_bin.4	WW	1.410997132	61.24772677	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Competibacterales	f__Competibacteraceae	g__RXIW01	s__
+WW-SRR12450810_bin.26	WW	1.467790109	209.0046585	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Competibacterales	f__Competibacteraceae	g__RXIW01	s__
+GW-SRR13727527_bin.201	GW	1.201640693	38.2386173	d__Bacteria	p__Methylomirabilota	c__Methylomirabilia	o__Rokubacteriales	f__CSP1-6	g__AR37	s__
+GW-SRR12113411_bin.77	GW	1.312986044	14.90148321	d__Bacteria	p__Methylomirabilota	c__Methylomirabilia	o__Rokubacteriales	f__CSP1-6	g__JACQFL01	s__JACQFL01 sp016200085
+GW-SRR12113392_bin.69	GW	1.363262144	10.36349434	d__Bacteria	p__Acidobacteriota	c__Acidobacteriae	o__Acidobacteriales	f__DSPA01	g__DSPA01	s__DSPA01 sp016185365
+AS-SRR11088380_bin.38	AS	2.078351221	5.947713941	d__Bacteria	p__Firmicutes	c__Bacilli	o__Lactobacillales	f__Enterococcaceae	g__Enterococcus_I	s__Enterococcus_I aquimarinus
+NW-ERR4222570_bin.132	NW	2.032632727	31.84046532	d__Bacteria	p__Actinobacteriota	c__Thermoleophilia	o__Gaiellales	f__F1-60-MAGs149	g__F1-60-MAGs149	s__F1-60-MAGs149 sp903960645
+AS-SRR14932485_bin.23	AS	1.287034739	13.55989866	d__Bacteria	p__Armatimonadota	c__Fimbriimonadia	o__Fimbriimonadales	f__Fimbriimonadaceae	g__UBA2017	s__UBA2017 sp002335425
+AS-ERR1414229_bin.29	AS	1.628581585	8.372209842	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__Flavobacteriales	f__Flavobacteriaceae	g__Flavobacterium	s__Flavobacterium lutivivi
+GW-SRR12113392_bin.30	GW	1.445696508	11.84289823	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Ga0077554	f__Ga007554	g__Ga0077554	s__Ga0077554 sp016191235
+GW-SRR12113392_bin.50	GW	1.306648324	20.3055798	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Ga0077536	f__Ga0077536	g__CAIKBL01	s__CAIKBL01 sp016191285
+GW-SRR12964611_bin.33	GW	1.395599023	31.54850505	d__Bacteria	p__Myxococcota	c__Polyangia	o__Polyangiales	f__Ga0077539	g__SCUS01	s__
+DW-SRR24226005_bin.27	DW	1.453035801	57.10701222	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Gallionellaceae	g__Gallionella	s__
+AS-SRR13994250_bin.11	AS	1.427945961	8.106192303	d__Bacteria	p__Planctomycetota	c__UBA1135	o__UBA1135	f__GCA-002686595	g__	s__
+GW-SRR12964612_bin.59	GW		4.924616568	d__Bacteria	p__Myxococcota	c__UBA9042	o__GCA-2863065	f__GCA-2863065	g__SXOO01	s__
+GW-SRR12113392_bin.92	GW	1.315939963	30.58516372	d__Bacteria	p__Gemmatimonadota	c__Gemmatimonadetes	o__Gemmatimonadales	f__Gemmatimonadaceae	g__JACPPC01	s__JACPPC01 sp016191225
+DW-SRR17063163_bin.68	DW	2.166426868	23.41329677	d__Bacteria	p__Gemmatimonadota	c__Gemmatimonadetes	o__Gemmatimonadales	f__Gemmatimonadaceae	g__PNKF01	s__
+DW-SRR17063164_bin.36	DW	2.087322207	14.69137418	d__Bacteria	p__Gemmatimonadota	c__Gemmatimonadetes	o__Gemmatimonadales	f__Gemmatimonadaceae	g__PNKF01	s__
+GW-SRR13727527_bin.293	GW	1.524309594	28.81830764	d__Bacteria	p__Gemmatimonadota	c__Gemmatimonadetes	o__Gemmatimonadales	f__Gemmatimonadaceae	g__UBA4720	s__
+GW-SRR12964612_bin.42	GW	1.394136434	5.521219064	d__Bacteria	p__Desulfobacterota	c__GWC2-55-46	o__GWC2-55-46	f__GWC2-55-46	g__	s__
+NW-DRR125124_bin.35	NW	1.92698943	7.241813218	d__Bacteria	p__Acidobacteriota	c__Holophagae	o__Holophagales	f__Holophagaceae	g__UBA12189	s__UBA12189 sp014189895
+DW-ERR2105748_bin.50	DW	1.365070327	11.30972422	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Hyphomicrobiaceae	g__	s__
+GW-SRR21427516_bin.30	GW	1.258463882	27.97070289	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Hyphomonadaceae	g__Hyphomonas	s__
+WW-SRR12450756_bin.12	WW	1.610895924	6.718173223	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__Hyphomonadaceae	g__UBA7672	s__
+GW-ERR3281022_bin.14	GW	1.435727901	13.26633069	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__JABCZS01	f__JABCZS01	g__	s__
+GW-ERR3281023_bin.38	GW	1.482445711	13.68958114	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__JABCZS01	f__JABCZS01	g__	s__
+AS-SRR14932479_bin.17	AS	1.685154699	27.86264883	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__Chitinophagales	f__JADIYW01	g__JADJSS01	s__
+GW-SRR13727527_bin.6	GW	1.26015824	22.4218528	d__Bacteria	p__Desulfobacterota	c__JAENJC01	o__JAENJC01	f__JAENJC01	g__	s__
+AS-SRR13994250_bin.125	AS	1.742913356	6.946193636	d__Bacteria	p__Spirochaetota	c__Leptospirae	o__Leptospirales	f__Leptonemataceae	g__	s__
+AS-SRR3501861_bin.3	AS	1.467076117	6.782487299	d__Bacteria	p__Spirochaetota	c__Leptospirae	o__Leptospirales	f__Leptonemataceae	g__JAEUSB01	s__
+NW-ERR2338392_bin.10	NW	1.686261239	10.20597213	d__Bacteria	p__Chloroflexota	c__Limnocylindria	o__Limnocylindrales	f__Limnocylindraceae	g__Limnocylindrus	s__
+GW-SRR13727527_bin.1	GW	1.766209621	15.70455805	d__Bacteria	p__Desulfobacterota_E	c__MBNT15	o__MBNT15	f__MBNT15	g__CG2-30-66-27	s__
+DW-SRR15085115_bin.6	DW	1.187807612	186.2476384	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Methylophilaceae	g__Methylotenera_A	s__Methylotenera_A sp002083635
+AS-SRR11235435_bin.18	AS	1.369622968	11.35901377	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Micavibrionales	f__Micavibrionaceae	g__JAGNKE01	s__JAGNKE01 sp018000295
+AS-SRR11673976_bin.100	AS	1.264789923	21.7099804	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Micavibrionales	f__Micavibrionaceae	g__JAGNKE01	s__JAGNKE01 sp016699735
+GW-SRR7912025_bin.43	GW	1.267997409	22.50984581	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Micavibrionales	f__Micavibrionaceae	g__Micavibrio_B	s__
+NW-ERR2345104_bin.36	NW	1.458092991	10.28263523	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Micropepsales	f__Micropepsaceae	g__Rhizomicrobium	s__
+WW-SRR12450756_bin.28	WW	1.685235577	10.88477575	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Micropepsales	f__Micropepsaceae	g__UBA2784	s__
+DW-ERR2105750_bin.55	DW	2.204909045	17.57289493	d__Bacteria	p__Actinobacteriota	c__Thermoleophilia	o__Miltoncostaeales	f__Miltoncostaeaceae	g__SYFI01	s__
+GW-SRR21427516_bin.8	GW	1.630403158	8.332600773	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__	s__
+NW-SRR10132616_bin.7	NW	1.527695648	6.008769706	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Moraxellaceae	g__Perlucidibaca	s__
+AS-SRR8208348_bin.109	AS	1.986596254	21.34704441	d__Bacteria	p__Actinobacteriota	c__Actinomycetia	o__Mycobacteriales	f__Mycobacteriaceae	g__Mycobacterium	s__
+DW-SRR22105534_bin.15	DW	1.702611373	7.263901049	d__Bacteria	p__Actinobacteriota	c__Actinomycetia	o__Mycobacteriales	f__Mycobacteriaceae	g__Mycobacterium	s__
+DW-SRR24226005_bin.39	DW		72.64897878	d__Bacteria	p__Actinobacteriota	c__Actinomycetia	o__Mycobacteriales	f__Mycobacteriaceae	g__Mycobacterium	s__Mycobacterium paragordonae
+GW-SRR12964611_bin.10	GW	1.488598819	22.46952611	d__Bacteria	p__Myxococcota	c__Myxococcia	o__Myxococcales	f__Myxococcaceae	g__JAEUJQ01	s__
+DW-SRR19238497_bin.62	DW	1.21755915	96.20474116	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Nevskiales	f__Nevskiaceae	g__Hydrocarboniphaga	s__Hydrocarboniphaga daqingensis
+DW-SRR19238497_bin.45	DW	1.249525612	32.28508233	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Nevskiales	f__Nevskiaceae	g__Stagnimonas	s__
+DW-ERR2105748_bin.101	DW	1.256581114	15.74088123	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Nitrosomonadaceae	g__	s__
+DW-ERR2105748_bin.79	DW	1.526938183	9.162207245	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Nitrosomonadaceae	g__	s__
+NW-ERR4222569_bin.35	NW	2.294703372	29.2342968	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Nitrosomonadaceae	g__VFJL01	s__VFJL01 sp903957805
+GW-ERR3281023_bin.22	GW	1.634944187	12.07056175	d__Bacteria	p__Nitrospirota	c__Nitrospiria	o__Nitrospirales	f__Nitrospiraceae	g__	s__
+AS-SRR11235435_bin.40	AS	1.887034374	18.24189424	d__Bacteria	p__Nitrospirota	c__Nitrospiria	o__Nitrospirales	f__Nitrospiraceae	g__Nitrospira_A	s__Nitrospira_A sp900170025
+AS-SRR11673976_bin.83	AS	1.861755089	46.70695039	d__Bacteria	p__Nitrospirota	c__Nitrospiria	o__Nitrospirales	f__Nitrospiraceae	g__Nitrospira_A	s__Nitrospira_A sp900170025
+AS-SRR3501861_bin.14	AS	1.723554358	16.81491166	d__Bacteria	p__Nitrospirota	c__Nitrospiria	o__Nitrospirales	f__Nitrospiraceae	g__Nitrospira_A	s__Nitrospira_A sp900696505
+WW-DRR198500_bin.2	WW	1.684852291	5.502926072	d__Bacteria	p__Nitrospirota	c__Nitrospiria	o__Nitrospirales	f__Nitrospiraceae	g__Nitrospira_A	s__Nitrospira_A sp009594855
+DW-SRR19238497_bin.19	DW	1.799439767	7.980699332	d__Bacteria	p__Nitrospirota	c__Nitrospiria	o__Nitrospirales	f__Nitrospiraceae	g__Nitrospira_F	s__Nitrospira_F sp002083565
+DW-ERR2105750_bin.105	DW	1.324872497	10.59844738	d__Bacteria	p__Nitrospirota	c__Nitrospiria	o__Nitrospirales	f__Nitrospiraceae	g__Palsa-1315	s__
+GW-SRR13727526_bin.10	GW	1.789800571	47.26515768	d__Bacteria	p__Nitrospirota	c__Nitrospiria	o__Nitrospirales	f__Nitrospiraceae	g__Palsa-1315	s__
+GW-SRR12964611_bin.34	GW	1.248880964	34.81597533	d__Bacteria	p__Cyanobacteria	c__Vampirovibrionia	o__Obscuribacterales	f__Obscuribacteraceae	g__Ga0077546	s__
+DW-SRR15085116_bin.73	DW	1.164473295	125.5903057	d__Bacteria	p__Cyanobacteria	c__Vampirovibrionia	o__Obscuribacterales	f__Obscuribacteraceae	g__JAFKGK01	s__JAFKGK01 sp017307165
+DW-SRR24226005_bin.2	DW	1.196453415	43.43396074	d__Bacteria	p__Cyanobacteria	c__Vampirovibrionia	o__Obscuribacterales	f__Obscuribacteraceae	g__QKMZ01	s__
+AS-SRR14932485_bin.141	AS	1.364273947	35.90206821	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__AKYH767-A	f__OLB10	g__JADKFV01	s__JADKFV01 sp016717325
+AS-SRR3501861_bin.22	AS	1.700524931	14.90819013	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__AKYH767-A	f__OLB10	g__OLB10	s__OLB10 sp002455375
+AS-SRR8223441_bin.29	AS	1.759774747	11.28710477	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__AKYH767-A	f__OLB10	g__OLB10	s__OLB10 sp002455375
+GW-SRR13727527_bin.148	GW	1.360722302	18.45476164	d__Bacteria	p__Verrucomicrobiota	c__Verrucomicrobiae	o__Opitutales	f__Opitutaceae	g__ER46	s__
+GW-ERR3281022_bin.34	GW	1.683985699	9.385748069	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Parvibaculales	f__Parvibaculaceae	g__Parvibaculum	s__
+GW-SRR13727526_bin.107	GW	1.47355363	50.92603532	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Parvibaculales	f__Parvibaculaceae	g__Parvibaculum	s__
+DW-SRR18749950_bin.42	DW	1.247121688	96.94510061	d__Bacteria	p__Planctomycetota	c__Planctomycetia	o__Planctomycetales	f__Planctomycetaceae	g__SXKJ01	s__
+WW-SRR22752048_bin.50	WW	1.808592604	5.936751327	d__Bacteria	p__Actinobacteriota	c__Actinomycetia	o__Propionibacteriales	f__Propionibacteriaceae	g__Brevilactibacter	s__
+DW-SRR21802942_bin.72	DW	1.326791353	67.11012963	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Pseudomonadaceae	g__Pseudomonas_E	s__Pseudomonas_E fluorescens_AN
+GW-SRR10598224_bin.28	GW	1.320748561	52.19092231	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Pseudomonadaceae	g__Pseudomonas_E	s__Pseudomonas_E sp018816095
+GW-SRR13727526_bin.65	GW	1.506401719	11.73497421	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Pseudomonadaceae	g__Pseudomonas_E	s__Pseudomonas_E mandelii
+GW-SRR8797411_bin.47	GW	1.142236906	53.62638837	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Pseudomonadaceae	g__Pseudomonas_E	s__
+GW-SRR18331975_bin.9	GW		4.858377933	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__Pseudomonadaceae	g__Pseudomonas_K	s__
+NW-ERR9973203_bin.73	NW	2.050392274	11.16502389	d__Bacteria	p__Myxococcota	c__Bradymonadia	o__REDH01	f__REDH01	g__CAIWGR01	s__CAIWGR01 sp903873545
+NW-ERR9973203_bin.117	NW	1.308509028	11.67859981	d__Bacteria	p__Chlamydiota	c__Chlamydiia	o__2-12-FULL-49-11	f__RGXB01	g__RGXB01	s__
+GW-SRR10598223_bin.11	GW	1.233065428	23.32082797	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Rhizobiaceae	g__RCIZ01	s__RCIZ01 sp018823835
+WW-DRR198516_bin.1	WW	1.706517788	6.937928844	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Rhodanobacteraceae	g__Dokdonella	s__Dokdonella sp016712865
+GW-ERR3281023_bin.40	GW	1.703007513	18.80415791	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Rhodanobacteraceae	g__Rhodanobacter	s__Rhodanobacter sp001898415
+AS-SRR8208348_bin.35	AS	1.440514022	7.381745683	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Amaricoccus	s__
+GW-SRR13727526_bin.67	GW	1.355412683	15.61212401	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Cypionkella	s__Cypionkella sp009773375
+GW-SRR15669520_bin.88	GW	1.638832001	49.08997817	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Cypionkella	s__Cypionkella sp001828855
+GW-SRR15669520_bin.46	GW	1.342053247	23.89649125	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Gemmobacter	s__
+GW-SRR8797411_bin.27	GW	1.39203533	15.18051556	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__KMS-5	s__
+WW-ERR1713342_bin.25	WW	1.413442297	9.172961893	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Paracoccus	s__
+GW-SRR21427515_bin.63	GW	1.344984287	12.20830052	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Roseinatronobacter	s__
+GW-SRR21427516_bin.29	GW	1.318718839	12.37923476	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodobacterales	f__Rhodobacteraceae	g__Roseinatronobacter	s__
+GW-SRR8797411_bin.28	GW	1.336741824	8.010913379	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__	s__
+DW-SRR24226005_bin.29	DW	1.516891446	51.62990186	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__66-26	s__66-26 sp001897745
+AS-SRR14932485_bin.132	AS		62.77136571	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Accumulibacter	s__
+AS-SRR3501861_bin.42	AS	1.285379315	12.02452913	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Accumulibacter	s__
+AS-SRR3501861_bin.51	AS	1.568527966	16.39172385	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Accumulibacter	s__
+AS-SRR11235435_bin.27	AS	1.70383962	17.74849621	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Azonexus	s__Azonexus sp016705475
+GW-SRR12964612_bin.11	GW	1.672989329	27.97142605	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Azonexus	s__Azonexus sp018780195
+GW-SRR21427515_bin.7	GW	1.339464694	12.28448171	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Azonexus	s__
+DW-SRR15085115_bin.50	DW	1.800649021	16.44135193	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Ga0074130	s__
+DW-SRR15085116_bin.33	DW	1.728396789	14.28219129	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Ga0074130	s__
+GW-SRR12113409_bin.16	GW	1.344898966	18.08825073	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__JACRAR01	s__JACRAR01 sp016194935
+AS-SRR14932485_bin.90	AS	1.318019288	17.53789353	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__JAEUNJ01	s__JAEUNJ01 sp016791145
+AS-SRR13994250_bin.130	AS	1.442016055	21.09487464	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__JAEUNL01	s__JAEUNL01 sp016791115
+GW-SRR10598223_bin.12	GW	1.248105968	19.41137564	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Methyloversatilis	s__Methyloversatilis sp018824085
+GW-SRR10598224_bin.17	GW	1.21584789	33.33228305	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Methyloversatilis	s__Methyloversatilis sp018824085
+GW-SRR13727526_bin.71	GW	1.319868703	78.83270739	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Rugosibacter	s__Rugosibacter sp016235025
+AS-SRR11235435_bin.29	AS	1.416788643	10.82690468	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__SSSZ01	s__SSSZ01 sp016720065
+AS-SRR13994250_bin.208	AS	1.888249762	15.51162594	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__SSSZ01	s__SSSZ01 sp009469685
+AS-SRR8208348_bin.19	AS	1.502189923	13.57171308	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__SSSZ01	s__SSSZ01 sp009469685
+AS-SRR8223441_bin.1	AS		35.32459479	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__SSSZ01	s__SSSZ01 sp009469675
+WW-DRR198516_bin.11	WW	1.552369489	8.287491646	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__SSSZ01	s__SSSZ01 sp009469665
+GW-SRR13727527_bin.212	GW	1.515457297	17.19191595	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Sulfuritalea	s__
+WW-ERR1713342_bin.46	WW	1.708299052	12.94125579	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Tepidiphilus	s__Tepidiphilus succinatimandens
+AS-SRR11235435_bin.54	AS	1.349424203	18.54371595	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Thauera	s__Thauera aminoaromatica
+AS-SRR3501861_bin.48	AS	1.706830392	11.56240071	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Thauera	s__Thauera aminoaromatica
+AS-SRR8223441_bin.15	AS	1.667592492	7.936287107	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Thauera	s__Thauera aminoaromatica
+DW-SRR6439735_bin.34	DW	2.011009043	33.86553178	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Thauera	s__Thauera aminoaromatica
+GW-SRR21427515_bin.19	GW	1.322413196	43.61966907	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__UBA2250	s__
+DW-SRR6439735_bin.8	DW	2.300606893	11.86693128	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Zoogloea	s__
+WW-SRR22752047_bin.102	WW	1.840447864	6.785918789	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Zoogloea	s__Zoogloea ramigera
+WW-SRR22752048_bin.17	WW	1.814914993	11.39922602	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Rhodocyclaceae	g__Zoogloea	s__Zoogloea ramigera
+DW-ERR2163668_bin.68	DW	1.483051813	14.60278468	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__Rhodospirillaceae	g__SHVO01	s__
+DW-SRR15085116_bin.51	DW	1.443683206	20.9860449	d__Bacteria	p__Dependentiae	c__Babeliae	o__Babeliales	f__RVW-14	g__AaIE-18	s__
+GW-SRR13727526_bin.30	GW	1.249665125	23.55739549	d__Bacteria	p__Actinobacteriota	c__Actinomycetia	o__Nanopelagicales	f__S36-B12	g__UBA10649	s__
+GW-SRR13727527_bin.235	GW	1.427847857	97.89603592	d__Bacteria	p__Actinobacteriota	c__Actinomycetia	o__Nanopelagicales	f__S36-B12	g__UBA11398	s__
+AS-ERR1414226_bin.35	AS	1.549366874	8.476868696	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__Chitinophagales	f__Saprospiraceae	g__JADJLQ01	s__JADJLQ01 sp016709995
+AS-ERR1414229_bin.43	AS	1.550375072	10.94745185	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__Chitinophagales	f__Saprospiraceae	g__JADJLQ01	s__JADJLQ01 sp016709995
+AS-SRR14932485_bin.149	AS	1.87596168	24.41591469	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__Chitinophagales	f__Saprospiraceae	g__JADJLQ01	s__
+AS-SRR3501861_bin.23	AS	1.557815229	13.24585432	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__Chitinophagales	f__Saprospiraceae	g__JAEUUM01	s__
+AS-SRR2107219_bin.15	AS	1.958142582	50.33948642	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__Chitinophagales	f__Saprospiraceae	g__OLB9	s__OLB9 sp016717105
+AS-SRR3501861_bin.19	AS	1.466258671	8.875075447	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__Chitinophagales	f__Saprospiraceae	g__UBA3362	s__
+GW-SRR12113409_bin.59	GW	1.49600106	45.77541252	d__Bacteria	p__Acidobacteriota	c__Acidobacteriae	o__Acidobacteriales	f__SbA1	g__QIAJ01	s__QIAJ01 sp016201265
+GW-SRR12113409_bin.84	GW	1.420952942	11.47231283	d__Bacteria	p__Nitrospirota	c__Nitrospiria	o__SBBL01	f__SCUR01	g__Manganitrophus	s__Manganitrophus sp016200325
+GW-SRR12113392_bin.23	GW	1.377817835	10.04332395	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-39	g__	s__
+DW-SRR17063163_bin.44	DW	1.674671175	9.34769132	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-39	g__2-02-FULL-62-17	s__
+DW-SRR17063164_bin.43	DW	1.712978887	8.062272944	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-39	g__2-02-FULL-62-17	s__
+GW-SRR12113411_bin.35	GW	1.261223772	18.17880302	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-39	g__JADGRQ01	s__JADGRQ01 sp016195915
+DW-ERR2105748_bin.53	DW	1.782987502	8.731508883	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-39	g__SZAS-79	s__
+DW-ERR2105750_bin.19	DW	1.831208035	11.13336514	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-39	g__SZAS-79	s__
+DW-ERR2163668_bin.44	DW	1.835666615	9.639655088	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-39	g__SZAS-79	s__
+GW-SRR12113409_bin.47	GW	1.334982926	21.93892636	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-40	g__JACQAP01	s__JACQAP01 sp016194905
+DW-ERR2105750_bin.11	DW	1.291907432	74.42101101	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__	s__
+DW-ERR2163668_bin.71	DW	1.27695546	23.74421137	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__	s__
+DW-SRR15085116_bin.24	DW	1.445653791	30.23068138	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__Ga0077527	s__
+DW-SRR17063163_bin.25	DW	1.442879912	10.83101549	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__Ga0077527	s__
+DW-SRR17063164_bin.15	DW	1.473061484	10.46503443	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__Ga0077527	s__
+DW-SRR24226005_bin.22	DW	1.365493281	24.14687672	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__Ga0077527	s__
+DW-ERR2105748_bin.12	DW	1.655915409	11.90460545	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__PALSA-1004	s__PALSA-1004 sp903905655
+DW-ERR2105750_bin.44	DW	1.66267814	15.01159827	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__PALSA-1004	s__PALSA-1004 sp903905655
+DW-ERR2163668_bin.65	DW	1.611496289	10.29038425	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__PALSA-1004	s__PALSA-1004 sp903905655
+DW-ERR2105748_bin.71	DW	1.499051689	13.49444967	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__UBA5216	s__
+DW-ERR2105750_bin.40	DW	1.501025239	21.68867684	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__UBA5216	s__
+DW-ERR2163668_bin.88	DW	1.541561989	20.95246173	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__SG8-41	g__UBA5216	s__
+GW-SRR12113409_bin.29	GW	1.44390353	13.85189241	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__SHVZ01	f__SHVZ01	g__JACQAG01	s__JACQAG01 sp016195085
+GW-SRR12113411_bin.27	GW	1.380395299	9.401547954	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__SHVZ01	f__SHVZ01	g__JACQAG01	s__JACQAG01 sp016195085
+DW-SRR17063163_bin.74	DW	1.715613887	24.65140325	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__SHVZ01	f__SHVZ01	g__SHVZ01	s__
+DW-SRR17063164_bin.24	DW	1.749644742	19.69280211	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__SHVZ01	f__SHVZ01	g__SHVZ01	s__
+DW-SRR18749951_bin.2	DW	1.75677122	14.02679162	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Blastomonas	s__Blastomonas ursincola
+GW-ERR3281022_bin.13	GW	1.755431567	66.77194334	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Blastomonas	s__Blastomonas delafieldii_A
+GW-ERR3281023_bin.60	GW	1.810484106	153.8267305	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Blastomonas	s__Blastomonas delafieldii_A
+GW-SRR21427515_bin.67	GW	1.435890501	23.17853559	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Blastomonas	s__
+AS-ERR1414226_bin.43	AS	1.410295692	13.34749662	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Chakrabartia	s__
+AS-SRR2107218_bin.3	AS	1.52504907	9.234820012	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Chakrabartia	s__
+AS-SRR2107219_bin.24	AS	1.51768292	8.424260308	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Chakrabartia	s__
+DW-SRR17063163_bin.6	DW		45.93178495	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Chakrabartia	s__Chakrabartia sp009920915
+DW-SRR17063164_bin.13	DW	1.388491547	65.93659575	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Chakrabartia	s__Chakrabartia sp009920915
+DW-SRR22105534_bin.25	DW	1.446772057	8.355008764	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Chakrabartia	s__
+DW-SRR18749950_bin.20	DW	1.396758345	20.24518777	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Erythrobacter	s__
+DW-SRR18749951_bin.44	DW	1.381474722	25.25192441	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Erythrobacter	s__
+DW-SRR19238493_bin.49	DW	1.601790642	18.91116213	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Erythrobacter	s__Erythrobacter sp013822695
+DW-SRR19238497_bin.26	DW	1.638466515	30.45155596	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Erythrobacter	s__Erythrobacter sp013822695
+AS-SRR13994250_bin.211	AS	1.364827346	23.13418039	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+AS-SRR2107218_bin.25	AS	1.847641412	14.25885533	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+AS-SRR2107219_bin.2	AS	1.819346669	13.02410291	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+DW-SRR17063164_bin.23	DW	1.39523704	20.43839339	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+DW-SRR17063164_bin.28	DW	1.601932556	87.53103545	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__Novosphingobium arvoryzae
+DW-SRR17063164_bin.35	DW	1.504430358	45.68370781	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+DW-SRR22105534_bin.26	DW	1.383675511	27.20938305	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+DW-SRR24226005_bin.41	DW	1.370638572	16.16550162	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+DW-SRR6986809_bin.16	DW	1.594371399	17.50297985	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+GW-SRR15669520_bin.12	GW	1.330176537	16.1267879	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+GW-SRR15669520_bin.48	GW	1.253023746	215.8392093	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+GW-SRR21427515_bin.46	GW	1.979251975	18.32131131	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__Novosphingobium subterraneum
+GW-SRR7912025_bin.8	GW	1.263797869	59.40882095	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+NW-SRR10131203_bin.2	NW	1.450202237	18.68614954	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+WW-SRR12450756_bin.31	WW	1.54496082	6.587335644	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Novosphingobium	s__
+DW-SRR15085115_bin.24	DW	1.640594663	14.55510707	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Qipengyuania	s__
+DW-SRR15085116_bin.18	DW	1.496995636	28.30529227	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Qipengyuania	s__
+GW-ERR3281023_bin.28	GW	1.635943638	25.26415332	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Qipengyuania	s__Qipengyuania sp002895025
+DW-SRR19238497_bin.25	DW	1.231241158	119.0987593	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingobium	s__Sphingobium sp016463275
+DW-SRR19238497_bin.91	DW		86.51206041	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingobium	s__Sphingobium fluviale
+GW-ERR3281023_bin.18	GW	1.581540282	61.78331228	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingobium	s__Sphingobium xenophagum
+GW-SRR10598224_bin.22	GW	1.248458035	17.69071751	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingobium	s__Sphingobium sp018823325
+GW-SRR7912025_bin.29	GW	1.326811111	14.66505436	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingobium	s__
+GW-SRR7912025_bin.31	GW	1.674077115	225.057322	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingobium	s__Sphingobium xenophagum
+DW-ERR2105750_bin.71	DW	1.270819734	15.77956897	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-ERR2163668_bin.21	DW	1.335011356	10.05778559	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__Sphingomonas sp000797515
+DW-SRR15085115_bin.10	DW	1.3926712	34.78461645	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-SRR15085115_bin.20	DW		158.7200863	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__Sphingomonas sp001464615
+DW-SRR15085115_bin.49	DW	1.546408366	27.91065699	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-SRR15085115_bin.59	DW		60.82852785	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-SRR15085116_bin.65	DW	1.410420976	19.71672812	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-SRR15085116_bin.74	DW		204.7327713	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__Sphingomonas sp001464615
+DW-SRR18749950_bin.5	DW	1.598626707	18.93892323	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-SRR19238493_bin.36	DW	1.586072156	12.27852608	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__Sphingomonas sp002083655
+DW-SRR19238497_bin.54	DW	1.304575142	24.12277194	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-SRR24226005_bin.36	DW	1.423397267	17.952028	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-SRR24226005_bin.49	DW	1.407888479	17.26367178	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-SRR24226005_bin.6	DW	1.463726743	14.8198305	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__Sphingomonas sp002083475
+DW-SRR6986809_bin.11	DW	1.334167994	19.02010233	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-SRR6986809_bin.8	DW	1.559129214	20.711533	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__Sphingomonas aquatilis
+GW-SRR12964611_bin.9	GW	1.374027258	9.785453506	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+GW-SRR12964612_bin.48	GW	1.317106674	12.60321169	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingomonas	s__
+DW-SRR19238493_bin.29	DW	1.543853258	63.63737203	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingopyxis	s__
+DW-SRR19238497_bin.53	DW	1.449929632	13.04095882	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingopyxis	s__
+GW-SRR10598224_bin.15	GW	1.284168683	14.20264002	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingopyxis	s__Sphingopyxis sp018823905
+AS-SRR2107218_bin.15	AS	1.545349619	12.42224723	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingorhabdus_B	s__
+AS-SRR2107219_bin.41	AS	1.505554534	11.2830819	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingorhabdus_B	s__
+NW-SRR10131203_bin.16	NW	1.862067343	18.5630639	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingorhabdus_B	s__Sphingorhabdus_B sp002479765
+NW-SRR10761721_bin.73	NW	1.602580805	10.24350629	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Sphingomonadales	f__Sphingomonadaceae	g__Sphingorhabdus_B	s__
+AS-SRR13994250_bin.99	AS	1.389802454	23.6070822	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Steroidobacterales	f__Steroidobacteraceae	g__CADEFQ01	s__CADEFQ01 sp019187185
+WW-SRR11088379_bin.17	WW	1.810281114	11.0778022	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Steroidobacterales	f__Steroidobacteraceae	g__RPQJ01	s__RPQJ01 sp018059685
+NW-ERR9973203_bin.10	NW	1.831356423	9.499981873	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Steroidobacterales	f__Steroidobacteraceae	g__UBA964	s__UBA964 sp002292945
+NW-ERR9973203_bin.118	NW	1.961772143	36.04109345	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Steroidobacterales	f__Steroidobacteraceae	g__UBA964	s__UBA964 sp903910215
+NW-ERR9973203_bin.148	NW	1.862035566	39.81719566	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Steroidobacterales	f__Steroidobacteraceae	g__UBA964	s__UBA964 sp903885195
+NW-ERR9973204_bin.130	NW	1.794672086	42.73744504	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Steroidobacterales	f__Steroidobacteraceae	g__UBA964	s__UBA964 sp903885195
+NW-ERR3761206_bin.109	NW	1.801751428	9.955610752	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Steroidobacterales	f__Steroidobacteraceae	g__ZC4RG30	s__
+NW-ERR3761207_bin.91	NW	1.807987912	9.624943424	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Steroidobacterales	f__Steroidobacteraceae	g__ZC4RG30	s__
+GW-SRR13727527_bin.40	GW	1.657829262	24.05881696	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Acidiferrobacterales	f__Sulfurifustaceae	g__Sulfuricaulis	s__
+GW-SRR18331974_bin.5	GW	1.532706943	10.27918162	d__Bacteria	p__Campylobacterota	c__Campylobacteria	o__Campylobacterales	f__Sulfurimonadaceae	g__Sulfuricurvum	s__
+DW-SRR21802942_bin.64	DW	1.377206393	11.88838069	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rickettsiales	f__SXRF01	g__	s__
+GW-ERR3858119_bin.124	GW	1.230753561	15.6991838	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rickettsiales	f__SXRF01	g__SXRF01	s__
+DW-SRR21802942_bin.59	DW	1.524155991	12.41105738	d__Bacteria	p__Bdellovibrionota_C	c__UBA2361	o__SZUA-149	f__SZUA-149	g__	s__
+GW-SRR12113411_bin.15	GW	1.390902994	8.894392104	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Tenderiales	f__Tenderiaceae	g__JACQEP01	s__JACQEP01 sp016200485
+DW-SRR19238497_bin.71	DW		26.89239568	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__TH1-2	g__VFBF01	s__
+GW-SRR12964611_bin.56	GW	1.278192435	18.47278042	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__TH1-2	g__VFBF01	s__VFBF01 sp006515885
+GW-SRR12964612_bin.26	GW	1.274087097	12.64586407	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Caulobacterales	f__TH1-2	g__VFBF01	s__VFBF01 sp006515885
+AS-SRR11673976_bin.118	AS	1.952734492	15.22032259	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Thiobacillaceae	g__PFJX01	s__PFJX01 sp016719465
+GW-SRR21427515_bin.37	GW	1.18085801	158.8550006	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Thiobacillaceae	g__PFJX01	s__
+GW-SRR21427515_bin.42	GW	1.566158453	11.86574287	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Thiobacillaceae	g__PFJX01	s__
+GW-SRR12964612_bin.70	GW	1.354809796	18.23974383	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__Thiobacillaceae	g__Thiobacillus	s__
+GW-SRR12113409_bin.34	GW	1.464828516	23.24486596	d__Bacteria	p__Bacteroidota	c__UBA10030	o__UBA10030	f__UBA10030	g__JACQBK01	s__JACQBK01 sp016194505
+GW-SRR13727527_bin.276	GW	1.272503361	20.88167076	d__Bacteria	p__Omnitrophota	c__Koll11	o__UBA10183	f__UBA10183	g__UBA10183	s__
+AS-SRR8208348_bin.95	AS	1.942403091	8.485272855	d__Bacteria	p__Actinobacteriota	c__Actinomycetia	o__Nanopelagicales	f__UBA10799	g__UBA10799	s__
+WW-SRR11088379_bin.52	WW	1.914993974	9.373529007	d__Bacteria	p__Actinobacteriota	c__Actinomycetia	o__Nanopelagicales	f__UBA10799	g__UBA10799	s__UBA10799 sp018003655
+GW-SRR12113409_bin.43	GW	1.402107784	11.43742116	d__Bacteria	p__Planctomycetota	c__Phycisphaerae	o__UBA1845	f__UBA1845	g__SBAX01	s__SBAX01 sp016200265
+NW-ERR3761206_bin.10	NW	1.78394681	16.49222541	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rickettsiales	f__UBA1997	g__SYAR01	s__
+NW-ERR3761207_bin.95	NW	1.765290016	16.29487789	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rickettsiales	f__UBA1997	g__SYAR01	s__
+GW-SRR12964611_bin.17	GW	1.192697351	34.53157822	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Micavibrionales	f__UBA2020	g__UBA2020	s__
+GW-SRR12964612_bin.56	GW	1.165823918	50.24489867	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Micavibrionales	f__UBA2020	g__UBA2020	s__
+DW-ERR2163668_bin.83	DW	1.591280195	12.75894571	d__Bacteria	p__Acidobacteriota	c__Vicinamibacteria	o__Vicinamibacterales	f__UBA2999	g__	s__
+GW-SRR13727527_bin.138	GW	1.492225992	28.86717864	d__Bacteria	p__Acidobacteriota	c__Vicinamibacteria	o__Vicinamibacterales	f__UBA2999	g__12-FULL-67-14b	s__
+DW-SRR19238497_bin.65	DW	1.194070285	49.54567044	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rickettsiales	f__UBA3002	g__QFOX01	s__
+NW-ERR4869717_bin.120	NW	2.372764101	10.40546155	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Burkholderiales	f__UBA3065	g__UBA3065	s__UBA3065 sp002367415
+DW-ERR2105748_bin.68	DW	1.524319659	12.1016872	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__UBA4486	f__UBA4486	g__	s__
+WW-ERR9855084_bin.38	WW	1.48216997	8.191077938	d__Bacteria	p__Acidobacteriota	c__Thermoanaerobaculia	o__UBA5066	f__UBA5066	g__UBA5066	s__
+NW-ERR4222569_bin.64	NW	1.859950195	9.966843629	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__UBA5518	g__UBA5518	s__UBA5518 sp903938575
+NW-ERR4222570_bin.67	NW	1.838594521	11.55115984	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Pseudomonadales	f__UBA5518	g__UBA5518	s__UBA5518 sp903938575
+WW-SRR11088379_bin.13	WW	1.647612186	14.35240524	d__Bacteria	p__Acidobacteriota	c__Thermoanaerobaculia	o__UBA5704	f__UBA5704	g__JAAYLR01	s__JAAYLR01 sp012521815
+GW-SRR12113409_bin.100	GW	1.257297774	35.17116344	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__UBA6429	f__UBA6429	g__JACQBC01	s__JACQBC01 sp016194635
+AS-SRR14932485_bin.145	AS	1.293028178	11.51404031	d__Bacteria	p__Bdellovibrionota	c__Bdellovibrionia	o__Bdellovibrionales	f__UBA6776	g__	s__
+GW-SRR12113411_bin.90	GW	1.304362677	11.64578873	d__Bacteria	p__Acidobacteriota	c__Blastocatellia	o__UBA7656	f__UBA7656	g__JACQDB01	s__JACQDB01 sp016201275
+NW-ERR9973204_bin.133	NW	1.954796495	54.20246491	d__Bacteria	p__Bacteroidota	c__Bacteroidia	o__UBA7662	f__UBA7662	g__SYHX01	s__SYHX01 sp903856555
+GW-SRR8797411_bin.12	GW	1.273566328	12.97649314	d__Bacteria	p__Desulfobacterota	c__GWC2-55-46	o__UBA9637	f__UBA9637	g__JACRNJ01	s__
+GW-SRR12113411_bin.48	GW	1.270254241	21.4201696	d__Bacteria	p__Desulfobacterota_B	c__Binatia	o__UTPRO1	f__UTPRO1	g__DP-19	s__DP-19 sp016200545
+AS-SRR13994250_bin.143	AS	1.209137122	42.48094411	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhodospirillales	f__UXAT02	g__Defluviicoccus_A	s__Defluviicoccus_A seviourii
+DW-SRR21802942_bin.42	DW	1.815185835	6.590628244	d__Bacteria	p__Zixibacteria	c__MSB-5A5	o__DSPP01	f__WJJR01	g__JACQFV01	s__
+DW-ERR2105748_bin.44	DW	1.480369085	21.61365073	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Afipia	s__
+DW-ERR2105750_bin.29	DW	1.566169761	44.16607149	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Afipia	s__
+DW-ERR2163668_bin.73	DW	1.669825874	29.19261107	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Afipia	s__
+DW-SRR19238497_bin.23	DW	1.242836434	36.249123	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Afipia	s__
+DW-SRR19238497_bin.85	DW	1.35582231	11.25628748	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Afipia	s__
+GW-SRR12964612_bin.39	GW	1.479797845	5.00718449	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Afipia	s__
+DW-ERR2105750_bin.2	DW	1.25579855	21.48018387	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__AP-16	s__
+DW-ERR2163668_bin.78	DW	1.31247392	9.220231967	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__AP-16	s__
+DW-SRR15085116_bin.22	DW	1.407252039	11.76674645	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Ga0077548	s__
+DW-ERR2105748_bin.83	DW		21.38136272	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Pseudolabrys	s__Pseudolabrys sp903892675
+DW-ERR2105750_bin.110	DW		30.39903195	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Pseudolabrys	s__Pseudolabrys sp903892675
+GW-SRR12113392_bin.26	GW	1.295500939	21.25876989	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Pseudolabrys	s__Pseudolabrys sp016185205
+DW-SRR19238497_bin.35	DW	1.428685229	14.47923264	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__SG-bin9	s__
+DW-ERR2105750_bin.78	DW		45.58870343	d__Bacteria	p__Proteobacteria	c__Alphaproteobacteria	o__Rhizobiales	f__Xanthobacteraceae	g__Z2-YC6860	s__
+GW-SRR18331974_bin.16	GW	1.586788398	7.113583815	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Arenimonas	s__
+DW-SRR6439735_bin.10	DW	1.503174663	18.51950776	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__SCMT01	s__SCMT01 sp008015835
+AS-SRR8208348_bin.64	AS	1.590481381	16.21927066	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Thermomonas	s__
+WW-SRR11088379_bin.62	WW	1.695278863	11.1031886	d__Bacteria	p__Proteobacteria	c__Gammaproteobacteria	o__Xanthomonadales	f__Xanthomonadaceae	g__Thermomonas	s__Thermomonas sp016720345
