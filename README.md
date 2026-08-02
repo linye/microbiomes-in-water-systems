@@ -12,6 +12,15 @@ This repository contains code and data for analyzing microbiomes in water system
     - seaborn == 0.13.2
     - networkx == 3.1
     - upsetplot == 0.9.0
+    - scipy == 1.10.1 
+- R (version 4.1.2)
+    - ggplot2 == 3.5.1
+    - dplyr == 1.1.3
+    - tidier == 1.3.1
+    - patchwork == 1.3.0
+    - ggpubr == 0.6.3
+    - rstatix == 0.7.2
+    - readr == 2.1.5
 
 ## 1. Gene Catalogue Construction
 
